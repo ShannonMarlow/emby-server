@@ -9,13 +9,13 @@ This project provides an automated setup for running **Emby Server** in Docker w
 
 emby-docker/
 
-├── docker-compose.yml
-├── setup.sh
-├── .env
-├── config/          # Emby configuration data
-└── media/
-├── videos/      # Place your video files here
-└── pictures/    # Place your picture files here
+docker-compose.yml
+setup.sh
+.env
+config/          # Emby configuration data
+media/
+videos/      # Place your video files here
+pictures/    # Place your picture files here
 
 ````
 
